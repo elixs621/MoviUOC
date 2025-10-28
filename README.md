@@ -2,20 +2,20 @@
   <img src="https://raw.githubusercontent.com/elixs621/MoviUOC/main/logo_moviUOC.png" alt="MoviUOC Logo" width="200"/>
 </p>
 
-# 🚗 MoviUOC
+# MoviUOC
 
 **MoviUOC** es una aplicación móvil diseñada para mejorar la movilidad segura entre estudiantes de **DuocUC**, permitiendo compartir viajes entre conductores y pasajeros de manera coordinada y confiable.
 
 ---
 
-## 📱 Descripción General
+## Descripción General
 
 El sistema permite a los estudiantes crear perfiles, organizar viajes, registrar pagos y validar la participación de pasajeros, todo mediante una interfaz intuitiva desarrollada en Android Studio.  
 MoviUOC busca fomentar la colaboración, reducir costos y aumentar la seguridad en los desplazamientos hacia la institución.
 
 ---
 
-## 🧩 Funcionalidades Principales
+## Funcionalidades Principales
 
 - Registro y login institucional  
 - Creación y administración de perfil de usuario  
@@ -26,7 +26,7 @@ MoviUOC busca fomentar la colaboración, reducir costos y aumentar la seguridad 
 
 ---
 
-## 🧠 Arquitectura del Sistema
+## Arquitectura del Sistema
 
 El proyecto está estructurado según el **modelo de vistas 4+1**, incluyendo:
 - **Vista Lógica:** Clases principales del sistema (Usuario, Viaje, ChecklistPago, etc.)  
@@ -37,7 +37,7 @@ El proyecto está estructurado según el **modelo de vistas 4+1**, incluyendo:
 
 ---
 
-## 💻 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Lenguaje:** Kotlin  
 - **IDE:** Android Studio  
@@ -48,12 +48,12 @@ El proyecto está estructurado según el **modelo de vistas 4+1**, incluyendo:
 
 ---
 
-## 🗂️ Estructura del Repositorio
+## Estructura del Repositorio
 
 
 ---
 
-## 📦 Descarga del Proyecto
+## Descarga del Proyecto
 
 Puedes descargar el proyecto completo desde el siguiente enlace:
 
@@ -67,13 +67,13 @@ Puedes descargar el proyecto completo desde el siguiente enlace:
 
 ---
 
-## 👥 Autores
+## Autores
 
 - **Maximiliano Venegas**  
 - **Elías Lobos**
 
 ---
 
-📅 **Versión:** 1.0  
-🏫 **Institución:** DuocUC  
-📚 **Carrera:** Analista Programador  
+**Versión:** 777.0  
+**Institución:** DuocUC  
+**Carrera:** Analista Programador  
