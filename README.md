@@ -58,8 +58,12 @@ El proyecto está estructurado según el **modelo de vistas 4+1**, incluyendo:
 Puedes descargar el proyecto completo desde el siguiente enlace:
 
 👉 [Descargar MoviUOC.zip desde Google Drive](https://drive.google.com/file/d/1bE6tWSdRst4QkzBb4meyyv5feOD-l795/view?usp=sharing)
+👉 [Link Trello](https://trello.com/invite/b/690106122a5d0bb504c09a9c/ATTI81cd275701c0e74518abc8fff280bfabF38C29C5/moviuoc)
+👉 [Documentacion](https://docs.google.com/document/d/1F7Hi_6A8z0V7RlL_wKaxCdm5fR-mVJ3pMQywUP7Xt8g/edit?usp=sharing)
 
-> Incluye el código fuente Android, diagramas UML, documentación técnica y tablero Trello.
+
+
+> Incluye el código fuente Android, Trello y Documentacion.
 
 ---
 
